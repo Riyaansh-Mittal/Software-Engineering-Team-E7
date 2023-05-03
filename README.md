@@ -14,10 +14,6 @@
 ## Functions
 
 ### Admin
-- Create Admin account using following command
-```
-py manage.py createsuperuser
-```
 - After Login, can see Unit of blood of each blood group available, Number Of Donor, Number of blood request, Number of approved request, Total Unit of blood on Dashboard.
 - Can View, Update, Delete Donor.
 - Can View, Update, Delete Patient.
